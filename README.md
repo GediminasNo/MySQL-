@@ -1,6 +1,6 @@
 # MySQL-
 Project mysql for learning purposes
-Projektelis mysql mokymosi tikslais
+
 
 1 Užduotis
 Naudodamiesi db_schema.pdf ir duomenų tipais apibrėžtais order_table.xlsx faile sukurkite
