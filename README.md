@@ -1,4 +1,5 @@
 # MySQL-
+Project mysql for learning purposes
 Projektelis mysql mokymosi tikslais
 
 1 Užduotis
